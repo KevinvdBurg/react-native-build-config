@@ -1,3 +1,8 @@
+# Note!
+We forked this package to remove the reference for jCenter, because it's been shutdown:
+https://blog.gradle.org/jcenter-shutdown
+
+
 # React Native - Build config access from JS
 
 Module to expose build config variables set in Gradle to your javascript code in React Native.
